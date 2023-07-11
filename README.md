@@ -2,7 +2,9 @@
 
 # Application Deployed Link
 
-Link - https://listed-board-web.netlify.app/
+Website Link - https://listed-board-web.netlify.app/
+
+Website Demo (Video) Link - https://drive.google.com/file/d/1dkJV-uQix20FfPEj-tF5-ogf4kdON6Xt/view?usp=drive_link
 
 Hi there, i have implemented this web application supporting google authentication, responsiveness in all devices, Live charts data populating and more...
 
