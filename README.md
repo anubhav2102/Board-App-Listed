@@ -2,7 +2,13 @@
 
 # Application Deployed Link
 
-https://listed-board-web.netlify.app/
+Link - https://listed-board-web.netlify.app/
+
+Hi there, i have implemented this web application supporting google authentication, responsiveness in all devices, Live charts data populating and more...
+
+Hope, you like it!
+
+Note - I have implemented google auth with flexibility so as to go back easily (to the Login Page) without need to logout first. Your access token is saved locally and your experience gets smooth for both pages.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
